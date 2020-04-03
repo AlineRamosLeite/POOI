@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\BueJ\lib\bluejcore.jar;D:\BueJ\lib\junit-4.11.jar;D:\BueJ\lib\hamcrest-core-1.3.jar;D:\BueJ\lib\lang-stride.jar;D:\BueJ\lib\javafx\lib\javafx.base.jar;D:\BueJ\lib\javafx\lib\javafx.controls.jar;D:\BueJ\lib\javafx\lib\javafx.fxml.jar;D:\BueJ\lib\javafx\lib\javafx.graphics.jar;D:\BueJ\lib\javafx\lib\javafx.media.jar;D:\BueJ\lib\javafx\lib\javafx.properties.jar;D:\BueJ\lib\javafx\lib\javafx.swing.jar;D:\BueJ\lib\javafx\lib\javafx.web.jar;C:\Users\Frankstein\CalculoIMC
+-d
+C:\Users\Frankstein\CalculoIMC\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Frankstein\CalculoIMC\Imc.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Frankstein\CalculoIMC\Imc.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\Frankstein\CalculoIMC\doc\Imc.html...
+Generating C:\Users\Frankstein\CalculoIMC\doc\package-summary.html...
+Generating C:\Users\Frankstein\CalculoIMC\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Frankstein\CalculoIMC\doc\allclasses.html...
+Generating C:\Users\Frankstein\CalculoIMC\doc\allclasses.html...
+Generating C:\Users\Frankstein\CalculoIMC\doc\index.html...
